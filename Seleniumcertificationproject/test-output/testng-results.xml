@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Count of hotels is:3<p>]]>
+    </line>
+    <line>
+      <![CDATA[Hotel Name is:The Willow Hill<p>]]>
+    </line>
+    <line>
+      <![CDATA[Hotel counts verified. Count of hotels is : 3<p>]]>
+    </line>
+    <line>
+      <![CDATA['pay at hotel' filter has been applied<p>]]>
+    </line>
+    <line>
+      <![CDATA['4+ rating' filter has been applied<p>]]>
+    </line>
+    <line>
+      <![CDATA['price range ₹2000-₹4000' filter has been applied<p>]]>
+    </line>
+    <line>
+      <![CDATA[Filter by price range verified<p>]]>
+    </line>
+    <line>
+      <![CDATA[Filter by rating-4 verified<p>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-02-04T02:21:13Z" name="Default suite" finished-at="2021-02-04T02:21:49Z" duration-ms="36610">
+    <groups>
+    </groups>
+    <test started-at="2021-02-04T02:21:13Z" name="Default test" finished-at="2021-02-04T02:21:49Z" duration-ms="36610">
+      <class name="Tests.Search_and_filter">
+        <test-method signature="Search_Verify()[pri:0, instance:Tests.Search_and_filter@5b0abc94]" started-at="2021-02-04T02:21:13Z" name="Search_Verify" finished-at="2021-02-04T02:21:49Z" duration-ms="36551" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Count of hotels is:3<p>]]>
+            </line>
+            <line>
+              <![CDATA[Hotel Name is:The Willow Hill<p>]]>
+            </line>
+            <line>
+              <![CDATA[Hotel counts verified. Count of hotels is : 3<p>]]>
+            </line>
+            <line>
+              <![CDATA['pay at hotel' filter has been applied<p>]]>
+            </line>
+            <line>
+              <![CDATA['4+ rating' filter has been applied<p>]]>
+            </line>
+            <line>
+              <![CDATA['price range ₹2000-₹4000' filter has been applied<p>]]>
+            </line>
+            <line>
+              <![CDATA[Filter by price range verified<p>]]>
+            </line>
+            <line>
+              <![CDATA[Filter by rating-4 verified<p>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Search_Verify -->
+      </class> <!-- Tests.Search_and_filter -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
